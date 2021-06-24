@@ -4,3 +4,6 @@
 "ticker": "MAZE”,
 "homepage": "https://git.io/JnFGZ"
 }
+# Create the Metadata JSON file
+metadata_hash = shelley.create_metadata_file(metadata) 
+print(metadata_hash)
