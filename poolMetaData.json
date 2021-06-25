@@ -1,9 +1,6 @@
 {
-"name": “MAZE”,
-"description": “Amazing”,
+"name": "MAZE”,
+"description": “Genuinely consistent Amazing and Reliable Full uptime target primarily located in the USA relays are in Frankfurt and Singapore to MAXIMIZE REWARDS”,
 "ticker": "MAZE”,
-"homepage": "https://git.io/JnFGZ"
+"homepage": "https://github.com/cturba/maze"
 }
-# Create the Metadata JSON file
-metadata_hash = shelley.create_metadata_file(metadata) 
-print(metadata_hash)
